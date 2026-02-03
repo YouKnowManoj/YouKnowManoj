@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Manoj 👋<br><br>Interested in DevOps, applications and networking. I enjoy learning by building, breaking, and fixing things, and I’m always curious about how infrastructure and applications work together.
 
 
